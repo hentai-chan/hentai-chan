@@ -1,10 +1,10 @@
 <!-- why so curious? -->
 
-<h3 style="font-family: consolas">
-    Description
+<h3>
+    <samp>Description</samp>
 </h3>
 
-<p style="font-family: consolas">
+<samp>
     This profile is home to a series of projects that will hopefully be of use to you.
     Check out my
     <a href="https://github.com/users/hentai-chan/projects/1">Global Task Tracker</a>
@@ -14,4 +14,4 @@
     made to my repositories on
     <a href="https://twitter.com/devhentaichan">twitter</a>
     (amongst other things).
-</p>
+</samp>
