@@ -1,17 +1,11 @@
-<!-- why so curious? -->
-
 <h3>
     <samp>Description</samp>
 </h3>
 
 <samp>
-    This profile is home to a series of projects that will hopefully be of use to you.
-    Check out my
-    <a href="https://github.com/users/hentai-chan/projects/1">Global Task Tracker</a>
-    to see what I am working on next or have a look at my
-    <a href="https://github.com/users/hentai-chan/projects/3">Project Status Board</a>
-    for big picture stuff. I also share daily updates of changes
-    made to my repositories on
-    <a href="https://twitter.com/devhentaichan">twitter</a>
-    (amongst other things).
+    Aspiring Python developer based in central Europe. I'm currently not available
+    for hire. Right now I'm teaching myself a broad range of new skills, so I don't
+    really have much time to work on any big projects. You should be able to find
+    my contact information on GitHub. Sometimes active on twitter, but I wouldn't
+    count on that.
 </samp>
